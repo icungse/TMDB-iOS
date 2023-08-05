@@ -8,22 +8,42 @@
 import SwiftUI
 
 struct ContentView: View {
+    let trendingMoviesViewModel: TrendingMoviesViewModel
+    let popularMoviesViewModel: PopularMoviesViewModel
+    
+    init(trendingMoviesViewModel: TrendingMoviesViewModel, popularMoviesViewModel: PopularMoviesViewModel) {
+        self.trendingMoviesViewModel = trendingMoviesViewModel
+        self.popularMoviesViewModel = popularMoviesViewModel
+    }
+    
+    
     var body: some View {
-        VStack {
-            TrendingMoviesView(
-                viewModel: TrendingMoviesViewModel(
-                    trendingMoviesFetcher: FetchTrendingMoviesService(
-                        requestManager: RequestManager()
-                    )
+        ScrollView(.vertical) {
+            VStack(spacing: 24) {
+                TrendingMoviesView(
+                    viewModel: trendingMoviesViewModel
                 )
-            )
+                .frame(height: 400)
+                
+                PopularMoviesView(
+                    viewModel: popularMoviesViewModel
+                )
+                .frame(height: 400)
+            }
+            .padding()
         }
-        .padding()
     }
 }
 
 struct ContentView_Previews: PreviewProvider {
     static var previews: some View {
-        ContentView()
+        ContentView(
+            trendingMoviesViewModel: TrendingMoviesViewModel(
+                trendingMoviesFetcher: TrendingMoviesServiceMock()
+            ),
+            popularMoviesViewModel: PopularMoviesViewModel(
+                popularMoviesFetcher: PopularMoviesServiceMock()
+            )
+        )
     }
 }
