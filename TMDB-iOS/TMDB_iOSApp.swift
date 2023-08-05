@@ -11,7 +11,18 @@ import SwiftUI
 struct TMDB_iOSApp: App {
     var body: some Scene {
         WindowGroup {
-            ContentView()
+            ContentView(
+                trendingMoviesViewModel: TrendingMoviesViewModel(
+                    trendingMoviesFetcher: FetchTrendingMoviesService(
+                        requestManager: RequestManager()
+                    )
+                ),
+                popularMoviesViewModel: PopularMoviesViewModel(
+                    popularMoviesFetcher: FetchPopularMoviesService(
+                        requestManager: RequestManager()
+                    )
+                )
+            )
         }
     }
 }

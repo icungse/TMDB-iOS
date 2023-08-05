@@ -17,19 +17,11 @@ struct CardView: View {
     var body: some View {
         VStack(alignment: .leading) {
             VStack(alignment: .leading) {
-                AsyncImage(
+                CacheAsyncImage(
                     url: movie.posterUrl,
                     content: { image in
-                        image
-                            .resizable()
-                    },
-                    placeholder: {
-                        Image("place_holder")
-                            .resizable()
-                            .frame(width: 150, height: 225)
-                            .aspectRatio(contentMode: .fit)
-                    }
-                )
+                        image.image?.resizable()
+                })
                 .aspectRatio(contentMode: .fit)
                 .frame(width: 150, height: 225)
                 

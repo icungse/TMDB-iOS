@@ -8,16 +8,17 @@
 import Foundation
 
 struct Movie: Codable, Identifiable {
-    let adult: Bool
+    let adult: Bool?
     let backdropPath: String?
-    let id: Int
+    let id: Int?
     let title: String?
-    let originalLanguage: String
+    let originalLanguage: String?
     let originalTitle: String?
-    let overview, posterPath: String
+    let overview: String?
+    let posterPath: String?
     let mediaType: MediaType?
     let genreIDS: [Int]?
-    let popularity: Double
+    let popularity: Double?
     let releaseDate: String?
     let video: Bool?
     let voteAverage: Double?
@@ -50,6 +51,9 @@ struct Movie: Codable, Identifiable {
 extension Movie {
     var posterUrl: URL? {
         get {
+            guard let posterPath = posterPath else {
+                return nil
+            }
             let fullUrl = "\(APIConstants.imageHost)\(posterPath)"
             return URL(string: fullUrl)
         }
