@@ -1,0 +1,436 @@
+{
+  "page": 1,
+  "results": [
+    {
+      "adult": false,
+      "backdrop_path": "/i2GVEvltEu3BXn5crBSxgKuTaca.jpg",
+      "id": 614479,
+      "title": "Insidious: The Red Door",
+      "original_language": "en",
+      "original_title": "Insidious: The Red Door",
+      "overview": "To put their demons to rest once and for all, Josh Lambert and a college-aged Dalton Lambert must go deeper into The Further than ever before, facing their family's dark past and a host of new and more horrifying terrors that lurk behind the red door.",
+      "poster_path": "/uTEOoZsbhSeQCvXGfW2DV7m9PQe.jpg",
+      "media_type": "movie",
+      "genre_ids": [
+        27,
+        9648,
+        53
+      ],
+      "popularity": 1796.134,
+      "release_date": "2023-07-05",
+      "video": false,
+      "vote_average": 6.583,
+      "vote_count": 447
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/zN41DPmPhwmgJjHwezALdrdvD0h.jpg",
+      "id": 615656,
+      "title": "Meg 2: The Trench",
+      "original_language": "en",
+      "original_title": "Meg 2: The Trench",
+      "overview": "An exploratory dive into the deepest depths of the ocean of a daring research team spirals into chaos when a malevolent mining operation threatens their mission and forces them into a high-stakes battle for survival.",
+      "poster_path": "/4m1Au3YkjqsxF8iwQy0fPYSxE0h.jpg",
+      "media_type": "movie",
+      "genre_ids": [
+        28,
+        878,
+        27,
+        35
+      ],
+      "popularity": 1321.17,
+      "release_date": "2023-08-02",
+      "video": false,
+      "vote_average": 6.889,
+      "vote_count": 54
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/5YZbUmjbMa3ClvSW1Wj3D6XGolb.jpg",
+      "id": 447365,
+      "title": "Guardians of the Galaxy Vol. 3",
+      "original_language": "en",
+      "original_title": "Guardians of the Galaxy Vol. 3",
+      "overview": "Peter Quill, still reeling from the loss of Gamora, must rally his team around him to defend the universe along with protecting one of their own. A mission that, if not completed successfully, could quite possibly lead to the end of the Guardians as we know them.",
+      "poster_path": "/r2J02Z2OpNTctfOSN1Ydgii51I3.jpg",
+      "media_type": "movie",
+      "genre_ids": [
+        878,
+        12,
+        28
+      ],
+      "popularity": 1813.797,
+      "release_date": "2023-05-03",
+      "video": false,
+      "vote_average": 8.089,
+      "vote_count": 3826
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/9x2clQDZmxVnHfF7axkEWBCd7oF.jpg",
+      "id": 1149381,
+      "title": "Soulcatcher",
+      "original_language": "pl",
+      "original_title": "Operacja: Soulcatcher",
+      "overview": "A military contractor hired to seize a weapon that turns people into savage killers seeks revenge when his brother falls victim to the device.",
+      "poster_path": "/djS5RWX8rJcG0D3rTmApq3zPqC8.jpg",
+      "media_type": "movie",
+      "genre_ids": [
+        28,
+        12,
+        53
+      ],
+      "popularity": 59.311,
+      "release_date": "2023-08-02",
+      "video": false,
+      "vote_average": 7.2,
+      "vote_count": 17
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/aEVYGOIrhWDrNoZxVhhSazmRjeR.jpg",
+      "id": 1070514,
+      "title": "Zom 100: Bucket List of the Dead",
+      "original_language": "ja",
+      "original_title": "ゾン100～ゾンビになるまでにしたい100のこと～",
+      "overview": "Bullied by his boss, worked around the clock, he's nothing more than a corporate drone. All it takes is a zombie outbreak for him to finally feel alive!",
+      "poster_path": "/kD35dB3KOHrLo1Y3RU5xXJ1hI7.jpg",
+      "media_type": "movie",
+      "genre_ids": [
+        35,
+        27,
+        28
+      ],
+      "popularity": 76.514,
+      "release_date": "2023-08-03",
+      "video": false,
+      "vote_average": 8.7,
+      "vote_count": 9
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/nHf61UzkfFno5X1ofIhugCPus2R.jpg",
+      "id": 346698,
+      "title": "Barbie",
+      "original_language": "en",
+      "original_title": "Barbie",
+      "overview": "Barbie and Ken are having the time of their lives in the colorful and seemingly perfect world of Barbie Land. However, when they get a chance to go to the real world, they soon discover the joys and perils of living among humans.",
+      "poster_path": "/iuFNMS8U5cb6xfzi51Dbkovj7vM.jpg",
+      "media_type": "movie",
+      "genre_ids": [
+        35,
+        12,
+        14
+      ],
+      "popularity": 3304.505,
+      "release_date": "2023-07-19",
+      "video": false,
+      "vote_average": 7.532,
+      "vote_count": 2222
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/8ohejkcQkNgkJgLn71Ws6Kd35g0.jpg",
+      "id": 872585,
+      "title": "Oppenheimer",
+      "original_language": "en",
+      "original_title": "Oppenheimer",
+      "overview": "The story of J. Robert Oppenheimer’s role in the development of the atomic bomb during World War II.",
+      "poster_path": "/8Gxv8gSFCU0XGDykEGv7zR1n2ua.jpg",
+      "media_type": "movie",
+      "genre_ids": [
+        18,
+        36
+      ],
+      "popularity": 996.477,
+      "release_date": "2023-07-19",
+      "video": false,
+      "vote_average": 8.319,
+      "vote_count": 1362
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/pcOLnrncuB9azJPiPqtuwukKbLL.jpg",
+      "id": 198102,
+      "name": "Hijack",
+      "original_language": "en",
+      "original_name": "Hijack",
+      "overview": "When Flight KA29 is hijacked during its seven-hour journey from Dubai to London, Sam Nelson—an accomplished corporate negotiator—tries using his professional skills to save everyone on board. Will this high-risk strategy be his undoing?",
+      "poster_path": "/szDEqqarPi3YqiPLevm7LObYrDJ.jpg",
+      "media_type": "tv",
+      "genre_ids": [
+        18
+      ],
+      "popularity": 934.539,
+      "first_air_date": "2023-06-28",
+      "vote_average": 8.357,
+      "vote_count": 147,
+      "origin_country": [
+        "GB"
+      ]
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/koU92vPMZFoWn2SD1w0IoOzAxFm.jpg",
+      "id": 125816,
+      "name": "The Lost Flowers of Alice Hart",
+      "original_language": "en",
+      "original_name": "The Lost Flowers of Alice Hart",
+      "overview": "After losing her parents to a mysterious fire, nine-year-old Alice Hart is raised by her grandmother June on a flower farm where she learns there are secrets within secrets. But years on, an unearthed betrayal sees Alice forced to face her past.",
+      "poster_path": "/sNeGAamuke1a2I4ndcaE0bnukh4.jpg",
+      "media_type": "tv",
+      "genre_ids": [
+        18,
+        9648
+      ],
+      "popularity": 47.814,
+      "first_air_date": "2023-08-04",
+      "vote_average": 8.0,
+      "vote_count": 2,
+      "origin_country": [
+        "AU"
+      ]
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/dWvDlTkt9VEGCDww6IzNRgm8fRQ.jpg",
+      "id": 457332,
+      "title": "Hidden Strike",
+      "original_language": "en",
+      "original_title": "Hidden Strike",
+      "overview": "Two elite soldiers must escort civilians through a gauntlet of gunfire and explosions.",
+      "poster_path": "/zsbolOkw8RhTU4DKOrpf4M7KCmi.jpg",
+      "media_type": "movie",
+      "genre_ids": [
+        28,
+        12,
+        53
+      ],
+      "popularity": 1578.196,
+      "release_date": "2023-07-06",
+      "video": false,
+      "vote_average": 7.106,
+      "vote_count": 289
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/4P3vMhQ2LWM0F2FaYEd4WH0zsiN.jpg",
+      "id": 124834,
+      "name": "Heartstopper",
+      "original_language": "en",
+      "original_name": "Heartstopper",
+      "overview": "Teens Charlie and Nick discover their unlikely friendship might be something more as they navigate school and young love in this coming-of-age series.",
+      "poster_path": "/p0AtD0ivSlHq2MHY6JFgyhNqAQY.jpg",
+      "media_type": "tv",
+      "genre_ids": [
+        18
+      ],
+      "popularity": 234.277,
+      "first_air_date": "2022-04-22",
+      "vote_average": 8.6,
+      "vote_count": 864,
+      "origin_country": [
+        "GB"
+      ]
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/4XM8DUTQb3lhLemJC51Jx4a2EuA.jpg",
+      "id": 385687,
+      "title": "Fast X",
+      "original_language": "en",
+      "original_title": "Fast X",
+      "overview": "Over many missions and against impossible odds, Dom Toretto and his family have outsmarted, out-nerved and outdriven every foe in their path. Now, they confront the most lethal opponent they've ever faced: A terrifying threat emerging from the shadows of the past who's fueled by blood revenge, and who is determined to shatter this family and destroy everything—and everyone—that Dom loves, forever.",
+      "poster_path": "/fiVW06jE7z9YnO4trhaMEdclSiC.jpg",
+      "media_type": "movie",
+      "genre_ids": [
+        28,
+        80,
+        53
+      ],
+      "popularity": 1421.216,
+      "release_date": "2023-05-17",
+      "video": false,
+      "vote_average": 7.324,
+      "vote_count": 3101
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/OJLBXOSq80PwTu9jTwSEz9yDHC.jpg",
+      "id": 796185,
+      "title": "The Three Musketeers: D'Artagnan",
+      "original_language": "fr",
+      "original_title": "Les Trois Mousquetaires : D'Artagnan",
+      "overview": "D'Artagnan, a spirited young Gascon, is left for dead after trying to save a noblewoman from being kidnapped. Once in Paris, he tries by all means to find his attackers, unaware that his quest will lead him to the very heart of a war where the future of France is at stake. Aided by King's Musketeers Athos, Porthos and Aramis, he faces the machinations of villainous Cardinal Richelieu and Milady de Winter, while falling in love with Constance, the Queen's confidante.",
+      "poster_path": "/hfExJPcbBtDeFDEb7I1By72Drlr.jpg",
+      "media_type": "movie",
+      "genre_ids": [
+        28,
+        12,
+        36,
+        18
+      ],
+      "popularity": 164.655,
+      "release_date": "2023-04-05",
+      "video": false,
+      "vote_average": 7.269,
+      "vote_count": 471
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/uj2duAkn6zUmRSbjyEr7XUeIWsJ.jpg",
+      "id": 1083862,
+      "title": "Resident Evil: Death Island",
+      "original_language": "ja",
+      "original_title": "バイオハザード：デスアイランド",
+      "overview": "In San Francisco, Jill Valentine is dealing with a zombie outbreak and a new T-Virus, Leon Kennedy is on the trail of a kidnapped DARPA scientist, and Claire Redfield is investigating a monstrous fish that is killing whales in the bay. Joined by Chris Redfield and Rebecca Chambers, they discover the trail of clues from their separate cases all converge on the same location, Alcatraz Island, where a new evil has taken residence and awaits their arrival.",
+      "poster_path": "/qayga07ICNDswm0cMJ8P3VwklFZ.jpg",
+      "media_type": "movie",
+      "genre_ids": [
+        16,
+        28,
+        27
+      ],
+      "popularity": 1734.637,
+      "release_date": "2023-06-22",
+      "video": false,
+      "vote_average": 7.868,
+      "vote_count": 363
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/yF1eOkaYvwiORauRCPWznV9xVvi.jpg",
+      "id": 298618,
+      "title": "The Flash",
+      "original_language": "en",
+      "original_title": "The Flash",
+      "overview": "When his attempt to save his family inadvertently alters the future, Barry Allen becomes trapped in a reality in which General Zod has returned and there are no Super Heroes to turn to. In order to save the world that he is in and return to the future that he knows, Barry's only hope is to race for his life. But will making the ultimate sacrifice be enough to reset the universe?",
+      "poster_path": "/rktDFPbfHfUbArZ6OOOKsXcv0Bm.jpg",
+      "media_type": "movie",
+      "genre_ids": [
+        28,
+        12,
+        878
+      ],
+      "popularity": 2768.382,
+      "release_date": "2023-06-13",
+      "video": false,
+      "vote_average": 6.948,
+      "vote_count": 1970
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/2vFuG6bWGyQUzYS9d69E5l85nIz.jpg",
+      "id": 667538,
+      "title": "Transformers: Rise of the Beasts",
+      "original_language": "en",
+      "original_title": "Transformers: Rise of the Beasts",
+      "overview": "When a new threat capable of destroying the entire planet emerges, Optimus Prime and the Autobots must team up with a powerful faction known as the Maximals. With the fate of humanity hanging in the balance, humans Noah and Elena will do whatever it takes to help the Transformers as they engage in the ultimate battle to save Earth.",
+      "poster_path": "/gPbM0MK8CP8A174rmUwGsADNYKD.jpg",
+      "media_type": "movie",
+      "genre_ids": [
+        28,
+        12,
+        878
+      ],
+      "popularity": 2705.838,
+      "release_date": "2023-06-06",
+      "video": false,
+      "vote_average": 7.522,
+      "vote_count": 2282
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/6LSlZEJ4TIq8lr92eOrZnPoMKgb.jpg",
+      "id": 1153366,
+      "title": "Head to Head",
+      "original_language": "ar",
+      "original_title": "راس براس",
+      "overview": "Hilarity meets danger when a lovesick chauffeur and a bootleg mechanic mistakenly pick up a retired crime lord, igniting a wild, life-changing adventure.",
+      "poster_path": "/42Zaf3b48xq3q3FRVwltqwoCeCQ.jpg",
+      "media_type": "movie",
+      "genre_ids": [
+        28,
+        35,
+        53
+      ],
+      "popularity": 41.573,
+      "release_date": "2023-08-03",
+      "video": false,
+      "vote_average": 6.3,
+      "vote_count": 3
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/u0ijYWX50bvbaUOWr3mpqZ9OcUK.jpg",
+      "id": 217766,
+      "name": "Zom 100: Bucket List of the Dead",
+      "original_language": "ja",
+      "original_name": "ゾン100～ゾンビになるまでにしたい100のこと～",
+      "overview": "An overworked 24-year-old finally decides to live a little and create a bucket list, when a zombie outbreak hits the country.",
+      "poster_path": "/XzOeAppGpnsSAiK82idkg0BoCt.jpg",
+      "media_type": "tv",
+      "genre_ids": [
+        16,
+        10759,
+        35,
+        10765
+      ],
+      "popularity": 311.153,
+      "first_air_date": "2023-07-09",
+      "vote_average": 7.462,
+      "vote_count": 13,
+      "origin_country": [
+        "JP"
+      ]
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/gmECX1DvFgdUPjtio2zaL8BPYPu.jpg",
+      "id": 95479,
+      "name": "Jujutsu Kaisen",
+      "original_language": "ja",
+      "original_name": "呪術廻戦",
+      "overview": "Yuji Itadori is a boy with tremendous physical strength, though he lives a completely ordinary high school life. One day, to save a classmate who has been attacked by curses, he eats the finger of Ryomen Sukuna, taking the curse into his own soul. From then on, he shares one body with Ryomen Sukuna. Guided by the most powerful of sorcerers, Satoru Gojo, Itadori is admitted to Tokyo Jujutsu High School, an organization that fights the curses... and thus begins the heroic tale of a boy who became a curse to exorcise a curse, a life from which he could never turn back.",
+      "poster_path": "/3yFHMtdhriig4sm1w8oMQfA2gFN.jpg",
+      "media_type": "tv",
+      "genre_ids": [
+        16,
+        10759,
+        10765
+      ],
+      "popularity": 651.547,
+      "first_air_date": "2020-10-03",
+      "vote_average": 8.549,
+      "vote_count": 2684,
+      "origin_country": [
+        "JP"
+      ]
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/iEFuHjqrE059SmflBva1JzDJutE.jpg",
+      "id": 496450,
+      "title": "Miraculous: Ladybug \u0026 Cat Noir, The Movie",
+      "original_language": "fr",
+      "original_title": "Miraculous - le film",
+      "overview": "A life of an ordinary Parisian teenager Marinette goes superhuman when she becomes Ladybug. Bestowed with magical powers of creation, Ladybug must unite with her opposite, Cat Noir, to save Paris as a new villain unleashes chaos unto the city.",
+      "poster_path": "/bBON9XO9Ek0DjRwMBnJNCwC96Cd.jpg",
+      "media_type": "movie",
+      "genre_ids": [
+        16,
+        10751,
+        28,
+        14,
+        10749
+      ],
+      "popularity": 1961.565,
+      "release_date": "2023-07-05",
+      "video": false,
+      "vote_average": 8.074,
+      "vote_count": 278
+    }
+  ],
+  "total_pages": 1000,
+  "total_results": 20000
+}
