@@ -16,22 +16,37 @@ struct ContentView: View {
         self.popularMoviesViewModel = popularMoviesViewModel
     }
     
+    @StateObject var tabNavigator = TMDBTabNavigator()
     
     var body: some View {
-        ScrollView(.vertical) {
-            VStack(spacing: 24) {
-                TrendingMoviesView(
-                    viewModel: trendingMoviesViewModel
-                )
-                .frame(height: 400)
-                
-                PopularMoviesView(
-                    viewModel: popularMoviesViewModel
-                )
-                .frame(height: 400)
+        TabView(selection: $tabNavigator.currentTab) {
+            HomeView(
+                trendingMoviesViewModel: trendingMoviesViewModel,
+                popularMoviesViewModel: popularMoviesViewModel
+            )
+            .tag(TMDBTabType.home)
+            .tabItem {
+                Label("Home", systemImage: "house")
             }
-            .padding()
+            
+            FavoriteView()
+                .tag(TMDBTabType.favorite)
+                .tabItem {
+                    Label("Favorite", systemImage: "heart")
+                }
+            WatchlistView()
+                .tag(TMDBTabType.watchlist)
+                .tabItem {
+                    Label("Watchlist", systemImage: "list.bullet")
+                }
+            
+            ProfileView()
+                .tag(TMDBTabType.profile)
+                .tabItem {
+                    Label("Profile", systemImage: "person")
+                }
         }
+        
     }
 }
 
